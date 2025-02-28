@@ -4,7 +4,7 @@
 
 1. Clone the repository 
    ```
-   git clone https://github.com/samueljamesc/coco_custom_image_class.git
+   git clone  https://github.com/gaurav00700/DownloadCustomCOCO.git
    ```
 
 2. Download JSON file from COCO website
